@@ -1,2 +1,5 @@
 # dashboard
-A  dashboard combining grid and flex. CSS practice. Completed as part of the curriculum for The Odin Project.
+A website dashboard to practice CSS. 
+- grid 
+- flex
+Completed as part of the curriculum for The Odin Project.
