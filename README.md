@@ -1,4 +1,4 @@
-# dashboard
+# website dashboard
 A website dashboard to practice CSS. 
 - grid 
 - flex
